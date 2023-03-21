@@ -27,6 +27,8 @@ Hub.BackgroundColor3 = Color3.fromRGB(85, 85, 127)
 Hub.BorderSizePixel = 0
 Hub.Position = UDim2.new(0.536170483, 0, 0.269326687, 0)
 Hub.Size = UDim2.new(0, 534, 0, 276)
+Hub.Active = true
+Hub.Draggable = true
 
 name.Name = "name"
 name.Parent = Hub
